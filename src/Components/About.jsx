@@ -24,7 +24,8 @@ const imageAltText = "Splash of brown and white liquid mixing together in a susp
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a CS student studying at UC San Diego. I'm interested in making CS education more accessible, especially to creatives.";
+  //const description = "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,10 +33,10 @@ const description =
  */
 const skillsList = [
   "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "UI/UX design",
+  "Adobe Acrobat Pro Javascript",
+  "Game design",
+  "Airtable",
   "Graphic design",
 ];
 
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Debugging is one of the most frustrating parts of programming to beginners. I'm doing research on cognitive processes during debugging to build tools that will help new programmers debug their code.";
 
 const About = () => {
   return (
