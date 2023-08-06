@@ -31,16 +31,15 @@ const imageAltText = "Overhead shot of a desk with many people using laptops";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "The Ugly Duckling Game",
+    description: "Collaborative internship to create a game from scratch in 6 weeks.",
+    url: "https://theuglyducklinggame.weebly.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Pacific Gateway Program Eligibility Application",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Designed, implemented, and tested Javascript functionality for a PDF form in Adobe Acrobat",
+    url: "",
   },
   {
     title: "My Resume Site",
@@ -49,10 +48,10 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Debugging Research Under Prof. Michael Coblenz",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Researching the cognitive processes involved in debugging and certain aspects of programming towards the goal of improving debugging tools.",
+    url: "",
   },
 ];
 
