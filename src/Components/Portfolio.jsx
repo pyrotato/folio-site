@@ -45,7 +45,7 @@ const projectList = [
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://brave-island-06b07c91e.3.azurestaticapps.net/#footer",
   },
   {
     title: "Debugging Research Under Prof. Michael Coblenz",
