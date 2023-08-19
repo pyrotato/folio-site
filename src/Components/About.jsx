@@ -24,7 +24,7 @@ const imageAltText = "Splash of brown and white liquid mixing together in a susp
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a CS student studying at UC San Diego. I'm interested in making CS education more accessible, especially to creatives.";
+  "I'm a CS student interested in making CS education more accessible, especially to creatives.";
   //const description = "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
 
 /**
