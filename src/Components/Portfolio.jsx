@@ -67,7 +67,7 @@ const Portfolio = () => {
               height: "90%",
               width: "100%",
               objectFit: "cover",
-              animation: "slideIn",
+              animation: "1s ease-out 0s 1 slideIn",
             }}
             alt={imageAltText}
           />
